@@ -1,0 +1,16 @@
+weasley	37
+ve	11
+voldemort	7
+butterbeer	6
+tonks	4
+crookshanks	2
+muggle	2
+apparate	1
+azkaban	1
+dementors	1
+didja	1
+dore	1
+fifteenthcentury	1
+highpitched	1
+nottingham	1
+ragnok	1
